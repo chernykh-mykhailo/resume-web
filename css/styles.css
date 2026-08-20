@@ -319,7 +319,7 @@ ol {
 	}
 
 	.main-content {
-		padding: 25px 25px 25px 35px !important;
+		padding: 20px 20px 20px 30px !important;
 		width: 70% !important;
 		box-sizing: border-box !important;
 	}
@@ -327,7 +327,7 @@ ol {
 	.sidebar {
 		width: 30% !important;
 		background: #e0ebfe !important;
-		padding: 20px 0 30px 0 !important;
+		padding: 15px 0 20px 0 !important;
 		box-sizing: border-box !important;
 		-webkit-print-color-adjust: exact;
 		print-color-adjust: exact;
@@ -339,29 +339,29 @@ ol {
 	}
 
 	.sidebar-content {
-		padding: 20px 15px !important;
+		padding: 15px 10px !important;
 	}
 
 	/* Adjust spacings to fit content perfectly on 2 pages */
 	.my-info {
-		margin-bottom: 20px !important;
+		margin-bottom: 15px !important;
 	}
 
 	.my-name {
-		font-size: 32px !important;
-		line-height: 38px !important;
-		margin-bottom: 10px !important;
+		font-size: 28px !important;
+		line-height: 34px !important;
+		margin-bottom: 8px !important;
 	}
 
 	.my-descr {
-		font-size: 13px !important;
-		line-height: 20px !important;
+		font-size: 12px !important;
+		line-height: 18px !important;
 	}
 
 	.section-title, .others-title {
-		font-size: 18px !important;
-		margin-top: 15px !important;
-		margin-bottom: 8px !important;
+		font-size: 16px !important;
+		margin-top: 10px !important;
+		margin-bottom: 6px !important;
 		page-break-after: avoid;
 		break-after: avoid;
 	}
@@ -370,7 +370,7 @@ ol {
 	.education-container,
 	.certification-container,
 	.others-container {
-		margin-bottom: 10px !important;
+		margin-bottom: 8px !important;
 		display: inline-block !important;
 		width: 100% !important;
 		page-break-inside: avoid !important;
@@ -378,37 +378,37 @@ ol {
 	}
 
 	.experience-position, .education-name, .certification-name {
-		font-size: 14px !important;
-		margin-bottom: 4px !important;
+		font-size: 13px !important;
+		margin-bottom: 2px !important;
 	}
 
 	.experience-period, .education-time, .others-time {
-		margin-bottom: 4px !important;
+		margin-bottom: 2px !important;
 	}
 
 	.experience-duties-list {
-		padding-left: 15px !important;
+		padding-left: 12px !important;
 	}
 
 	.experience-duties-item, .others-desc-item, .skills-item {
-		font-size: 12px !important;
-		line-height: 18px !important;
+		font-size: 11px !important;
+		line-height: 16px !important;
 	}
 
 	.contacts-container, .skills-container {
-		margin-bottom: 20px !important;
+		margin-bottom: 15px !important;
 		page-break-inside: avoid;
 		break-inside: avoid;
 	}
 
 	.contacts-title, .skills-title, .sidebar-title {
-		font-size: 16px !important;
-		margin-bottom: 6px !important;
+		font-size: 14px !important;
+		margin-bottom: 4px !important;
 	}
 
 	.contacts-link, .contacts-type {
-		font-size: 12px !important;
-		line-height: 18px !important;
+		font-size: 11px !important;
+		line-height: 16px !important;
 	}
 
 	/* Hide language switcher and other non-print elements */

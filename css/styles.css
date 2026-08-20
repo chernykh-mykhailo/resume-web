@@ -333,6 +333,11 @@ ol {
 		print-color-adjust: exact;
 	}
 
+	.sidebar img {
+		max-width: 100% !important;
+		height: auto !important;
+	}
+
 	.sidebar-content {
 		padding: 20px 15px !important;
 	}
@@ -366,8 +371,10 @@ ol {
 	.certification-container,
 	.others-container {
 		margin-bottom: 10px !important;
-		page-break-inside: avoid;
-		break-inside: avoid;
+		display: inline-block !important;
+		width: 100% !important;
+		page-break-inside: avoid !important;
+		break-inside: avoid !important;
 	}
 
 	.experience-position, .education-name, .certification-name {
